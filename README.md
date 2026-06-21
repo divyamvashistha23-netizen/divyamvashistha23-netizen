@@ -5,16 +5,20 @@
 🤖 Learning AI/ML
 
 📚 Currently Learning:
+- Numpy
 - Pandas
 - Matplotlib
 - Scikit-Learn
 - Pytorch
 
 🎯 Next Goals:
-- Neural Networking
+- Neural Networks
 - Deep Learning
 - Cyber Security
 
+ ## Tech Stack
+
+Python • NumPy • Pandas • Matplotlib • Scikit-Learn • PyTorch • Git • GitHub
 <!--
 **divyamvashistha23-netizen/divyamvashistha23-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
