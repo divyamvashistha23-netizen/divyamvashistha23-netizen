@@ -19,6 +19,10 @@
  ## Tech Stack
 
 Python • NumPy • Pandas • Matplotlib • Scikit-Learn • PyTorch • Git • GitHub
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode)](https://skillicons.dev)
 <!--
 **divyamvashistha23-netizen/divyamvashistha23-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
