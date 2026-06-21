@@ -24,6 +24,10 @@
 ## GitHub Stats
 
 ![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyamvashistha23-netizen&show_icons=true&theme=tokyonight)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=divyamvashistha23-netizen&theme=tokyonight)
 <!--
 **divyamvashistha23-netizen/divyamvashistha23-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
