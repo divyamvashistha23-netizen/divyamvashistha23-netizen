@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Divyam 👋
+
+🎓 B.Tech IT Student
+
+🤖 Learning AI/ML
+
+📚 Currently Learning:
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Pytorch
+
+🎯 Next Goals:
+- Neural Networking
+- Deep Learning
+- Cyber Security
 
 <!--
 **divyamvashistha23-netizen/divyamvashistha23-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
